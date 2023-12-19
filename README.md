@@ -2,6 +2,7 @@
 
 ## About me 🫡.
 My name is Giovani also know as Ryuujin, I'm from <img loading="lazy" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> Alfenas-MG and I'm currently studying Computer Science at [UNIFENAS](https://www.unifenas.br)
+<br>
 I was a Semi-Professional Player and Coach in League of Legends from 2019-2022 and now I only play as a hobby 😁
 
 ## Skills ✏️
