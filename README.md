@@ -31,4 +31,4 @@ I was a Semi-Professional Player and Coach in League of Legends from 2019-2022 a
 
 <br>
 
-[github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/giovanifogarolli/giovanifogarolli/output/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/giovanifogarolli/giovanifogarolli/output/github-contribution-grid-snake-dark.svg
+![github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/giovanifogarolli/giovanifogarolli/output/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/giovanifogarolli/giovanifogarolli/output/github-contribution-grid-snake-dark.svg
