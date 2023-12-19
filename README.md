@@ -15,7 +15,7 @@ I was a Semi-Professional Player and Coach in League of Legends from 2019-2022 a
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanifogarolli&layout=donut-vertical)](https://github.com/giovanifogarolli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanifogarolli&layout=donut-horizontal)](https://github.com/giovanifogarolli/github-readme-stats)
 
 ## Contact me:
 
