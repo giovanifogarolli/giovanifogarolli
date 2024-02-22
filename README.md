@@ -1,9 +1,9 @@
 # Giovani Fogarolli
 
 ## About me 🫡.
-My name is Giovani also know as Ryuujin, I'm from <img loading="lazy" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> Alfenas-MG and I'm currently studying Computer Science at [UNIFENAS](https://www.unifenas.br)
+My name is Giovani also know as Ryuujin, I'm from <img loading="lazy" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> Alfenas-MG and I'm currently studying Computer Science at [Anhanguera EAD](https://www.anhanguera.com)
 <br>
-I was a Semi-Professional Player and Coach in League of Legends from 2019-2022 and now I only play as a hobby 😁
+I was a Semi-Professional Player and Coach in League of Legends from 2019.2-2023.2 and now I only play as a hobby 😁
 
 ## Skills ✏️
 
